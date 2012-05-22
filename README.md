@@ -1,4 +1,4 @@
-# Sudan Image Animator #
+# Somali Image Animator #
 
 Quick little hack inspired from [Parsleymagnet's](http://www.reddit.com/r/MapPorn/comments/txjke/wikipedia_map_of_the_governing_factions_of/c4qoi6d) comment.  Run sequence:
 
