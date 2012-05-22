@@ -1,0 +1,6 @@
+/images*
+*.png
+*.gif
+*.avi
+*.mpeg
+.DS_Store
