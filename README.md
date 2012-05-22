@@ -7,7 +7,7 @@ Quick little hack inspired from [Parsleymagnet's](http://www.reddit.com/r/MapPor
 ./get_files.sh
 mkdir images
 mv *.png images/
-# Now go through the images and delete duplicates
+# Now go through the images and delete duplicates.  I put my uniqitization in files.uniq.txt to help people do this quickly
 ./normalize_images.sh
 ```
 
