@@ -12,3 +12,9 @@ mv *.png images/
 ```
 
 Now you have a bunch of images that you can easily turn into a video.  Of course, I say easily because I have no clue how to do this on a mac (where is my `mencoder`?!).
+
+PS: The mencoder command is:
+
+```
+mencoder mf://*.png -mf w=1920:h=1080:fps=1:type=png -ovc lavc -lavcopts vcodec=mpeg4:vbitrate=800 -o ../output.avi
+```
