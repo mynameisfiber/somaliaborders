@@ -1,6 +1,8 @@
 # Somali Image Animator #
 
-Quick little hack inspired from [Parsleymagnet's](http://www.reddit.com/r/MapPorn/comments/txjke/wikipedia_map_of_the_governing_factions_of/c4qoi6d) comment.  Run sequence:
+Quick little hack inspired from [Parsleymagnet's](http://www.reddit.com/r/MapPorn/comments/txjke/wikipedia_map_of_the_governing_factions_of/c4qoi6d) comment.  The video is located at https://vimeo.com/42594793.
+
+If you'd like to create the files yourself, do the following (no warranties):
 
 ```
 ./find_files.sh
