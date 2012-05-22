@@ -16,5 +16,5 @@ Now you have a bunch of images that you can easily turn into a video.  Of course
 PS: The mencoder command is:
 
 ```
-mencoder mf://*.png -mf w=1920:h=1080:fps=1:type=png -ovc lavc -lavcopts vcodec=mpeg4:vbitrate=800 -o ../output.avi
+mencoder mf://*.png -mf w=1920:h=1080:fps=1:type=png -ovc lavc -lavcopts vcodec=msmpeg4v2:vbitrate=800 -o ../output.avi
 ```
